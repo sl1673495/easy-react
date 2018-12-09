@@ -1,0 +1,18 @@
+{
+  "name": "easy-react",
+  "version": "0.0.1",
+  "description": "easy-react",
+  "main": "dist/react.js",
+  "scripts": {
+    "start": "parcel ./index.html"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/sl1673495",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.6.1",
+    "parcel-bundler": "^1.7.1"
+  }
+}
